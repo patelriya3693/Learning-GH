@@ -1,0 +1,53 @@
+[
+{
+ "author":"Elon Musk",
+"main_Quote":"When something is important enough, you do it even if the odds are not in your favor.",
+"image":"",
+"all_quotes":["If you get up in the morning and think the future is going to be better, it is a bright day. Otherwise, it’s not.",
+"When Henry Ford made cheap, reliable cars, people said, ‘Nah, what’s wrong with a horse?’ That was a huge bet he made, and it worked.",
+"Persistence is very important. You should not give up unless you are forced to give up.",
+"It’s OK to have your eggs in one basket as long as you control what happens to that basket."
+]
+},
+{
+ "author":"Steve Jobs",
+"main_Quote":"nnovation distinguishes between a leader and a follower.",
+"image":"",
+"all_quotes":["Your time is limited, so don’t waste it living someone else’s life.",
+"Don’t let the noise of others’ opinions drown out your own inner voice.",
+"Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected.",
+"We’re here to put a dent in the universe. Otherwise why else even be here?"
+]
+},
+{
+ "author":"Mark Zuckerberg",
+"main_Quote":"The biggest risk is not taking any risk... In a world that changing really quickly, the only strategy that is guaranteed to fail is not taking risks.",
+"image":"",
+"all_quotes":["IMove fast and break things. Unless you are breaking stuff, you are not moving fast enough.",
+"Ideas don’t come out fully formed , they only become clearer as you work on them . You just have to get started.",
+"We Don't Build Services to Make Money, We Make Money To Build Services.",
+"If you just work on stuff that you like and you’re passionate about, you don’t have to have a master plan with how things will play out."
+]
+},
+{
+ "author":"Jeff Bezos",
+"main_Quote":"Life's too short to hang out with people who aren't resourceful.",
+"image":"",
+"all_quotes":["A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.",
+"One of the only ways to get out of a tight box is to invent your way out.",
+"The most important single thing is to focus obsessively on the customer. Our goal is to be earth’s most customer-centric company.",
+"The best customer service is if the customer doesn't need to call you, doesn't need to talk to you. It just works."
+]
+},
+{
+ "author":"Ratan Tata",
+"main_Quote":"Take the stones people throw at you. And use them to build a monument.",
+"image":"",
+"all_quotes":["If you want to walk fast, walk alone. But if you want to walk far, walk together.",
+"Business need to go beyond the interest of their companies to the communities they serve.",
+"Ups and downs in life are very important to keep us going because a straight line, even in an ECG. means we are not alive.",
+"Power and wealth are not two of my main stakes.",
+"None can destroy iron, but its rust can. Likewise, none can destroy a person, but his own mindset can."
+]
+}
+]
