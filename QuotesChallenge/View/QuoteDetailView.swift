@@ -13,9 +13,12 @@ struct QuoteDetailView: View {
         ScrollView{
             VStack(alignment: .leading){
                 ForEach(quote.all_quotes, id:\.self){ q in
-                    Text(q)
-                        .multilineTextAlignment(.leading)
-                        .padding()
+                    HStack{
+                        Text("-")
+                        Text(q)
+                            .multilineTextAlignment(.leading)
+                            .padding()
+                    }
                 }
             }
         }.navigationBarTitle(quote.author)
